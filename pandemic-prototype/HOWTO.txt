@@ -1,0 +1,12 @@
+HOW TO compile and execute the project
+
+-- Solution 1 : maven command line --
+In the pandemic-csueb directory (parent pom.xml)
+- compile :
+$ mvn compile
+- execute :
+$ mvn exec:java -pl pandemic-prototype
+
+-- Solution 2 : Eclipse
+- Import the maven project in Eclipse (needs the Maven Eclipse plugin)
+- Run the main.GameController.java as a Java Application

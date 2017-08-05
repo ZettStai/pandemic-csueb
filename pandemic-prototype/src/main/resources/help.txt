@@ -1,0 +1,56 @@
+=========== Pandemic game help =============
+
+*** Actions ***
+
+* Move to a location : FERRY / FLIGHT*
+- click on a location on the map
+- click on "FERRY/FLY" button
+The location must be adjacent to the current player position 
+
+* Fly to a location : DIRECT FLIGHT*
+- click on the destination location on the map
+- click on the card you want to use to fly, it must match the destination
+- click on "DIRECT FLIGHT" button
+
+* Fly to a location : CHARTER FLIGHT*
+- click on the destination location on the map
+- click on the card you want to use to fly, it must match the current location
+- click on "CHARTER FLIGHT" button
+
+
+* Build a resource center *
+- the current player must have the card of his current location
+- click on "Build RC" button
+
+* Shuttle flight *
+- click on the destination location
+- click on "Shuttle flight" button.
+Both departure and destination locations must have a resource center
+
+* Treat location from disease *
+- click on "Treat button"
+- select the color of the disease you want to treat
+Treat action remove 1 block of selected disease in the current location
+(or all the same color block if that disease has been cured)
+
+* Cure *
+- the player must be in a resource center
+- Select two cards of the same color as the resource center
+- Click on "Cure" button
+The disease of that color is now cured
+Tip : use Ctrl+click to select multiple cards
+
+* Share knowledge *
+- The 2 players must be in the same location
+- one of them must have the current location card
+- click on "Share knowledge" button
+The current location card is transfered from a player to the other
+
+* Pass your turn *
+- click on "Pass" button
+
+* Help *
+- click on "Help" button
+You will be able to read this help.
+
+===================================
